@@ -9,7 +9,7 @@ Dynamic Language Runtime (DLR).
 
 Goals:
 
-
+(b1)
  -- Implement a feature-complete Clojure on top of CLR/DLR.
  -- Stay as close as possible to the JVM implementation.
  -- Have some fun. 
